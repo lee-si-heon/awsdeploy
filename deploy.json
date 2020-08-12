@@ -1,7 +1,7 @@
 {
   "REPO_URL":"https://github.com/lee-si-heon/awsdeploy",
   "PROJECT_NAME":"awsdeploy",
-  "REMOTE_HOST":"ec2-13-124-175-151.ap-northeast-2.compute.amazonaws.com",
-  "REMOTE_HOST_SSH":"13.124.175.151",
+  "REMOTE_HOST":"ec2-3-35-9-218.ap-northeast-2.compute.amazonaws.com",
+  "REMOTE_HOST_SSH":"3.35.9.218",
   "REMOTE_USER":"ubuntu"
 }
